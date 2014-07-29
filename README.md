@@ -1,8 +1,13 @@
 helloWorld
 ==========
 
-sandbox
-<<<<<<< HEAD
+> sandbox
+
+1. item
+2. item
+3. item
+
+HEAD
 ?
 =======
 
